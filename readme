@@ -1,5 +1,0 @@
-This code is an experimental part of the paper 'A traitor tracing and access control method for encrypted 3D models based on CP-ABE and fair
-watermark',Its attack layer part includes smoothing, Gaussian noise, simplified attack and affine transformation.
-Where the paper results in a smoothness of lambda = 0.2 and vertex reduction numbers of 10%, 20%, and 30%.Where the larger the lambda, 
-the larger the watermark extraction error will be, we are exploring the maximum smoothness of the watermark at 80% extraction success rate.
-
